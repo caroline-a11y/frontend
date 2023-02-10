@@ -1,38 +1,55 @@
-.App {
-  text-align: center;
-}
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.kits {
+    min-width: 200px;
+    max-width: 200px;
+    border-radius: 5px;
+    border: solid 2px;
+    margin: 5px;
+    background-color: grey;
 }
+.kits img{
+    min-width: 200px;
+    max-width: 200px;
+    min-height: 200px;
+    max-height: 200px;
+    border-radius: 5px;
+   
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
 }
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.kit-brand{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    background-color: purple;
 }
-
-.App-link {
-  color: #61dafb;
+.kits p{
+    word-break: break-all;
+    background: palevioletred;
 }
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.likes{
+    display: flex;
+}
+.My-Kit-Detail{
+    background: palevioletred;
+    display: flex;
+    flex-wrap: wrap;
+}
+a {
+    padding-left: 5px;
+    margin-left: 10px;
+    background-color: cornflowerblue;
+}
+html {
+    background-color: grey;
+}
+.delete{
+    background-color: red;
+    padding: 10px;
+}
+form{
+    padding: 10px;
+    
+    margin-left: 10px;
+    border-radius: 100px;
+    
 }

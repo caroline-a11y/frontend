@@ -1,0 +1,148 @@
+{
+  "kits": [
+    {
+      "id": 1,
+      "name": "Foundation",
+      "brand": "Maybelline",
+      "creation": "2018",
+      "shade": "02",
+      "phone": "0710785372",
+      "image": "https://www.ulta.com/shade-finders/maybelline/super-stay-full-coverage-foundation/images/Maybelline_SuperStay_Hero_m.jpg"
+    },
+    {
+      "id": 2,
+      "name": "lipstick",
+      "brand": "Hudda",
+      "creation": "2019",
+      "shade": "Red",
+      "phone": "0723918563",
+      "image": "http://cdn.shopify.com/s/files/1/0546/1996/3565/products/product_laydown_matte_ink_pinks_8_dmi_image_na_no-cta_800x1067_95bddcc5-4c6d-4f74-a4db-c2eabe4f004a.webp?v=1652534969"
+    },
+    {
+      "id": 3,
+      "name": "Brushes",
+      "brand": "Fit Me",
+      "creation": "2018",
+      "shade": "Black",
+      "phone": "0783469203",
+      "image": "https://ulizamall.co.ke/wp-content/uploads/2021/02/H6839e7850b5b42c5923a978beaa622465-1-600x600.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Contour",
+      "brand": "Fit Me",
+      "creation": "2020",
+      "shade": "03",
+      "phone": "078349203",
+      "image": "https://cdn.shopify.com/s/files/1/1067/9720/files/7df15f74d17a43d59443aefba553a090_medium.jpg?v=1582727862"
+    },
+    {
+      "id": 5,
+      "name": "Mascara",
+      "brand": "Slick",
+      "creation": "2020",
+      "shade": "Black",
+      "phone": "0784562986",
+      "image": "https://media.allure.com/photos/6206a73b88ac0fcd34d1707c/1:1/w_2000,h_2000,c_limit/0210-mascara.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Liner",
+      "brand": "Huddah",
+      "creation": "2018",
+      "shade": "black",
+      "phone": "0783456281",
+      "image": "https://i.insider.com/5e876e7c73d0c8410f118469?width=960&format=jpeg"
+    },
+    {
+      "id": 7,
+      "name": "Lipglose",
+      "brand": "Huddah",
+      "creation": "2020",
+      "shade": "Clear",
+      "phone": "0783456259",
+      "image": "https://www.justmylook.com/images/extreme-shine-volume-lip-gloss-5ml-p21527-46366_image.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Eyeshadow",
+      "brand": "Huddah",
+      "creation": "2018",
+      "shade": "Nude",
+      "phone": "0783456279",
+      "image": "https://i.ebayimg.com/images/g/LAIAAOSwvuZiIAZx/s-l1600.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Blush",
+      "brand": "Huddah",
+      "creation": "2019",
+      "shade": "Nude",
+      "phone": "0783456201",
+      "image": "https://www.rankandstyle.com/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Frns-dev%2Fmedia%2Flists%2Fb%2Fblush-palettes_CSCXvrU.jpg&w=640&q=75"
+    },
+    {
+      "id": "10",
+      "name": "Brow Cutter",
+      "brand": "Fit Me",
+      "creation": "2019",
+      "shade": "Pink",
+      "phone": "0782456307",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51jecM4pPhL.jpg"
+    },
+    {
+      "id": "11",
+      "name": "Brow shapper",
+      "brand": "Huddah",
+      "creation": "2020",
+      "shade": "Blue",
+      "phone": "0782917864",
+      "image": "https://media.karousell.com/media/photos/products/2022/10/18/diy_eyebrow_shaping_kit_eyebro_1666061463_99c87690_progressive.jpg"
+    },
+    {
+      "id": "12",
+      "name": "Set spray",
+      "brand": "Fit Me",
+      "creation": "2020",
+      "shade": "Clear",
+      "phone": "0753629107",
+      "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/setting-spray-1656001293.jpg?crop=0.8888888888888888xw:1xh;center,top&resize=1200:*"
+    },
+    {
+      "id": "13",
+      "name": "Eye pencil",
+      "brand": "Fit Me",
+      "creation": "2018",
+      "shade": "Brown",
+      "phone": "0783569202",
+      "image": "https://m.media-amazon.com/images/I/81UchwViqrL.jpg"
+    },
+    {
+      "name": "foundation",
+      "brand": "fit me",
+      "creation": 2020,
+      "shade": 2,
+      "phone": 792765398,
+      "image": "https://i2.wp.com/bestlady.co.ke/wp-content/uploads/2020/10/fitt.jpg?ssl=1",
+      "id": "P9ykjg9"
+    },
+    {
+      "name": "foundation",
+      "brand": "fit me",
+      "creation": 2021,
+      "shade": -3,
+      "phone": 745634576,
+      "image": "https://i2.wp.com/bestlady.co.ke/wp-content/uploads/2020/10/fitt.jpg?ssl=1",
+      "id": "gisFAJ6"
+    },
+    {
+      "name": "foundation",
+      "brand": "fit me",
+      "creation": 2020,
+      "shade": 2,
+      "phone": 7826545,
+      "image": "https://i2.wp.com/bestlady.co.ke/wp-content/uploads/2020/10/fitt.jpg?ssl=1",
+      "id": "9d_6kU3"
+    }
+  ]
+}
